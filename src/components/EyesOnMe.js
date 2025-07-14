@@ -8,7 +8,7 @@ function EyesOnMe () {
     }
 
     function handleBlur() {
-        console.log ('Hey! Eyes on me')
+        console.log ('Hey! Eyes on me!')
     }
     return (
         <div>
